@@ -42,4 +42,8 @@
     <PackageTags>sample, library</PackageTags>
   </PropertyGroup>
 
+  <PropertyGroup>
+    <PackageLicenseExpression>GPL-2.0-only</PackageLicenseExpression>
+  </PropertyGroup>
+
 </Project>
