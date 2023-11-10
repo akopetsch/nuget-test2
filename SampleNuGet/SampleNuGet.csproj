@@ -30,4 +30,16 @@
     <NoWarn>$(NoWarn);CS1591</NoWarn>
   </PropertyGroup>
 
+  <PropertyGroup>
+    <Authors>Alexander Kopetsch</Authors>
+    <Description>A long description to explain the package</Description>
+
+    <!-- PackageProjectUrl is different from the repository URL. It can be a documentation
+         website or a website explaining the project -->
+    <PackageProjectUrl>https://github.com/akopetsch/nuget-test2/</PackageProjectUrl>
+
+    <!-- A list of tags to help the search engine to understand the content of the package -->
+    <PackageTags>sample, library</PackageTags>
+  </PropertyGroup>
+
 </Project>
