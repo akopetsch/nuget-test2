@@ -70,4 +70,14 @@
     <None Include="icon.png" Pack="true" PackagePath="" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Csv\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Csv\Test.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
