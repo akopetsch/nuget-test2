@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="CsvHelper" Version="30.0.1" />
     <PackageReference Include="DotNet.ReproducibleBuilds" Version="1.1.1">
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       <PrivateAssets>all</PrivateAssets>
@@ -36,7 +37,7 @@
 
     <!-- PackageProjectUrl is different from the repository URL. It can be a documentation
          website or a website explaining the project -->
-    <PackageProjectUrl>https://github.com/akopetsch/nuget-test2/</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/akopetsch/nuget-test2</PackageProjectUrl>
 
     <!-- A list of tags to help the search engine to understand the content of the package -->
     <PackageTags>sample, library</PackageTags>
@@ -52,7 +53,7 @@
 
   <ItemGroup>
     <!-- Add a README.md next to the csproj -->
-    <None Include="README.md" Pack="true" PackagePath=""/>
+    <None Include="README.md" Pack="true" PackagePath="" />
   </ItemGroup>
 
   <PropertyGroup>
@@ -66,7 +67,7 @@
         - Recommended dimensions: 128x128
         - Maximum size: 1MB
     -->
-    <None Include="icon.png" Pack="true" PackagePath=""/>
+    <None Include="icon.png" Pack="true" PackagePath="" />
   </ItemGroup>
 
 </Project>
