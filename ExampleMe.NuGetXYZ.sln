@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleNuGetXYZ", "SampleNuGetXYZ\SampleNuGetXYZ.csproj", "{E12EAA13-E6E0-4E5D-9CD0-8C00567CF50E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleMe.NuGetXYZ", "ExampleMe.NuGetXYZ\ExampleMe.NuGetXYZ.csproj", "{E12EAA13-E6E0-4E5D-9CD0-8C00567CF50E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleNuGetXYZ.Tests", "SampleNuGetXYZ.Tests\SampleNuGetXYZ.Tests.csproj", "{4D074365-348E-4D25-BEB5-E765EF9E3E33}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleMe.NuGetXYZ.Tests", "ExampleMe.NuGetXYZ.Tests\ExampleMe.NuGetXYZ.Tests.csproj", "{4D074365-348E-4D25-BEB5-E765EF9E3E33}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
