@@ -1,4 +1,4 @@
-namespace SampleNuGet.Tests;
+namespace SampleNuGetXYZ.Tests;
 
 public class UnitTest1
 {

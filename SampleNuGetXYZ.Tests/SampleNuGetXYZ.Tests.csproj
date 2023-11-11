@@ -22,7 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\SampleNuGet\SampleNuGet.csproj" />
+    <ProjectReference Include="..\SampleNuGetXYZ\SampleNuGetXYZ.csproj" />
   </ItemGroup>
 
 </Project>

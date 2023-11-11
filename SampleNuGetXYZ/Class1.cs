@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SampleNuGet
+namespace SampleNuGetXYZ
 {
     public class Class1
     {
